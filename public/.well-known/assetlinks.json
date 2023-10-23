@@ -1,0 +1,15 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.qbmobile",
+            "sha256_cert_fingerprints":
+            [
+                "0F:68:C2:CA:57:8E:EF:D8:1E:DD:97:11:38:85:B2:B5:8B:10:41:69:FB:48:75:C8:F8:DE:F0:74:21:BB:AE:BB",
+                "2C:9A:69:B4:DC:4D:D9:2C:7C:6B:DE:98:9E:1E:3F:2E:F2:E3:93:B9:30:4F:B8:47:04:E8:2C:B0:A8:A7:6D:03", 
+                "E3:D0:5C:3E:66:13:D1:72:D3:76:FA:7D:02:9C:21:AF:E1:99:8C:29:A4:1F:24:0A:64:53:A7:38:52:58:5A:0D"
+            ]
+        }
+    }
+]
